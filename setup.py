@@ -46,7 +46,7 @@ setuptools.setup(
         "numpy == 1.14.5",
         "six == 1.11.0",
         "scikit-learn == 0.20.4",
-        "sentencepiece == 0.1.98"],
+        "sentencepiece >= 0.1.83"],
     python_requires='>=3.7',
     classifiers = [
             'License :: OSI Approved :: Apache Software License',
